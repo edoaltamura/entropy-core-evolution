@@ -1,0 +1,8 @@
+attrs
+numpy
+unyt
+astropy
+sciris
+swiftsimio
+tqdm
+velociraptor

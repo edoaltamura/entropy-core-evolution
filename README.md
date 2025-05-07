@@ -1,4 +1,5 @@
-# Entropy Evolution: Reproducing the Emergence of Entropy Plateaus
+# Entropy-core evolution
+### Data and scripts associated with the Altamura et al. (2025) paper
 
 ## Overview  
 This repository contains all data and analysis scripts used to reproduce the 

@@ -1,5 +1,9 @@
 # Entropy-core evolution
+
 ### Data and scripts associated with the Altamura et al. (2025) paper
+*Entropy plateaus can emerge from gas replacement at a characteristic
+halo mass in simulated groups and clusters of galaxies*
+Authors: Edoardo Altamura, Scott T. Kay, Joop Schaye, Ian G. McCarthy, Matthieu Schaller
 
 ## Overview  
 This repository contains all data and analysis scripts used to reproduce the 
@@ -49,15 +53,13 @@ The tendency to over-eject low-entropy gas suggests that current feedback prescr
 git clone https://github.com/edoaltamura/entropy-core-evolution.git
 cd entropy-core-evolution
 ```
-
 2. Create and activate the environment
-
+3. Use Python code snippets from the [examples]() or [documentation]() to load and plot the data.
 
 ## Citation
-If you use this repository or its data in your work, please cite:
-
-```text
-```
+If you use this repository or its data in your work, please cite the relevant papers as 
+described in the [citation guide](...), or refer to the [CITATION.bib](./CITATION.bib) file for 
+the `bibtex` handles.
 
 ## License
 This project is licensed under the Apache License Version 2.0.

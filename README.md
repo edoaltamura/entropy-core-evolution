@@ -1,8 +1,10 @@
 # Entropy-core evolution
 
 ### Data and scripts associated with the Altamura et al. (2025) paper
+
 *Entropy plateaus can emerge from gas replacement at a characteristic
 halo mass in simulated groups and clusters of galaxies*
+
 Authors: Edoardo Altamura, Scott T. Kay, Joop Schaye, Ian G. McCarthy, Matthieu Schaller
 
 ## Overview  

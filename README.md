@@ -1,23 +1,43 @@
 ![Group-core](img/banner_cluster.png)
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2505.05675)
+![GitHub Release](https://img.shields.io/github/v/release/edoaltamura/entropy-core-evolution)
+![Python Language](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedoaltamura%2Fentropy-core-evolution&label=Repository%20Visits&countColor=%230c7ebe&style=flat&labelStyle=none)
+![GitHub License](https://img.shields.io/github/license/edoaltamura/entropy-core-evolution)
+![GitHub Repo stars](https://img.shields.io/github/stars/edoaltamura/entropy-core-evolution)
+
+
 # Entropy-core evolution
 
-### Data and code associated with the Altamura et al. (2025) paper
+### Data and code associated with the [Altamura et al. (2025) paper](https://arxiv.org/abs/2505.05675)
 
 *Entropy plateaus can emerge from gas replacement at a characteristic
 halo mass in simulated groups and clusters of galaxies*
 
-Authors: Edoardo Altamura, Scott T. Kay, Joop Schaye, Ian G. McCarthy, Matthieu Schaller
+*Authors*: **Edoardo Altamura**, Scott T. Kay, Joop Schaye, Ian G. McCarthy, Matthieu Schaller
 
+## Table of Contents  
+- [Overview](#overview)
+- [Science summary](#science)
+- [Repository structure](#structure)
+- [Installation](#installation)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+<a name="overview"/>
 ## Overview  
 This repository contains the data and analysis scripts useful to reproduce the 
 results of Altamura et al. (2025, Paper II). Paper II investigates the emergence of entropy 
 plateaus in simulated galaxy groups and clusters using cosmological hydrodynamic 
 zoom-in simulations with the SWIFT-EAGLE model. It builds directly on the $z = 0$ 
-entropy profile analysis presented in Altamura et al. (2023, Paper I). Visit [this repository]() 
+entropy profile analysis presented in [Altamura et al. (2023, Paper I)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3164A/abstract). Visit 
+[this repository](https://github.com/edoaltamura/entropy-core-problem) 
 for data and scripts from Paper I.
 
 <details>
+  <a name="science"/>
   <summary>Summary of main science</summary>
 
 - Entropy plateaus emerge at characteristic halo-mass scales. Simulations of a galaxy group ($M_
@@ -45,6 +65,7 @@ XMM–*Newton* studies of local groups report entropy excesses and flat cores co
 The tendency to over-eject low-entropy gas suggests that current feedback prescriptions may be too aggressive at group scales. Adaptive efficiency schemes or hybrid thermal–kinetic models may be required to recover the full spectrum of entropy shapes without compromising other cluster properties.
 </details>
 
+<a name="structure"/>
 ## Repository structure  
 ```text
 ├── data/               # Simulation data products
@@ -53,6 +74,7 @@ The tendency to over-eject low-entropy gas suggests that current feedback prescr
 └── img/                # Figures from the paper (pdf) and other visualisations
 ```
 
+<a name="installation"/>
 ## Installation  
 1. Clone this repository
 ```bash
@@ -60,20 +82,27 @@ git clone https://github.com/edoaltamura/entropy-core-evolution.git
 cd entropy-core-evolution
 ```
 2. Create and activate the environment
-3. Use Python code snippets from the [examples]() or [documentation]() to load and plot the data.
 
-## Citation
-If you use this repository or its data in your work, please cite the relevant papers as 
-described in the [citation guide](...), or refer to the [CITATION.bib](./CITATION.bib) file for 
-the `bibtex` handles.
+[//]: # (3. Use Python code snippets from the [examples]&#40;&#41; or [documentation]&#40;&#41; to load and plot the data.)
 
+[//]: # (## Citation)
+
+[//]: # (If you use this repository or its data in your work, please cite the relevant papers as )
+
+[//]: # (described in the [citation guide]&#40;...&#41;, or refer to the [CITATION.bib]&#40;./CITATION.bib&#41; file for )
+
+[//]: # (the `bibtex` handles.)
+
+
+<a name="licence"/>
 ## License
 This project is licensed under the Apache License Version 2.0.
 
+<a name="acknowledgements"/>
 ## Acknowledgements
-EA thanks Adrian Jenkins and Alastair Basden for high-performance computing support.
+The authors thank Adrian Jenkins and Alastair Basden for high-performance computing support.
 This work used the DiRAC@Durham facility managed by the Institute for Computational Cosmology on 
-behalf of the STFC DiRAC HPC Facility (\href{https://dirac.ac.uk}{www.dirac.ac.uk}). The equipment 
+behalf of the STFC DiRAC HPC Facility ([https://dirac.ac.uk](www.dirac.ac.uk)). The equipment 
 was funded by BEIS capital funding via STFC capital grants ST/K00042X/1, ST/P002293/1, ST/R002371/1 
 and ST/S002502/1, Durham University, and STFC operations grant ST/R000832/1. DiRAC is part of the 
 National e-Infrastructure. EA acknowledges the STFC studentship grant ST/T506291/1 and support from 

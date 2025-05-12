@@ -38,20 +38,20 @@ for data and scripts from Paper I.
   <summary>Summary of main science (click to expand)</summary>
 
 - Entropy plateaus emerge at characteristic halo-mass scales. Simulations of a galaxy group
-  $M_{500}\simeq8.8\times10^{12}$ M$_\odot$) and a cluster ($M_{500}\simeq2.9\times10^{14}$ M$_\odot$)
-  show that once a halo reaches $M\sim10^{12}$ M$_\odot$, its entropy profile flattens at the 
-  virial radius. As the halo grows to $\sim10^{13}$ M$_\odot$, the plateau extends inward, and by 
-  $\sim10^{14}$ M$_\odot$ a fully isentropic core is established.
+  $M_{500}\simeq8.8\times10^{12}$ $M_\odot$) and a cluster ($M_{500}\simeq2.9\times10^{14}$ $M_\odot$)
+  show that once a halo reaches $M\sim10^{12}$ $M_\odot$, its entropy profile flattens at the 
+  virial radius. As the halo grows to $\sim10^{13}$ $M_\odot$, the plateau extends inward, and by 
+  $\sim10^{14}$ $M_\odot$ a fully isentropic core is established.
 
 - AGN feedback is the principal mechanism.
 Lagrangian tracking of gas particles reveals that AGN outbursts expel low-entropy gas before it can accrete into the core, replacing it with higher-entropy material and erasing the central gradient needed for a cool core.
 
 - Transition coincides with peak SMBH activity.
-The onset of the entropy plateau at $M\sim10^{12}$ M$_\odot$ aligns with the maximum in the 
+The onset of the entropy plateau at $M\sim10^{12}$ $M_\odot$ aligns with the maximum in the 
   specific black-hole accretion rate, indicating a shift from supernova-dominated to AGN-dominated thermodynamic regulation.
 
 - Numerical convergence.
-High-resolution runs (gas particle mass $m_{\rm gas}\lesssim2.3\times10^5$ M$_\odot$) confirm 
+High-resolution runs (gas particle mass $m_{\rm gas}\lesssim2.3\times10^5$ $M_\odot$) confirm 
   that the entropy plateau persists even when subgrid physics is resolved on smaller scales.
 
 - Comparison with observations.

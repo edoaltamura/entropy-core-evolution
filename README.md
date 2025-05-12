@@ -35,7 +35,7 @@ entropy profile analysis presented in [Altamura et al. (2023, Paper I)](https://
 for data and scripts from Paper I.
 
 <details>
-  <summary>Summary of main science</summary>
+  <summary>Summary of main science (click to expand)</summary>
 
 - Entropy plateaus emerge at characteristic halo-mass scales. Simulations of a galaxy group
   $M_{500}\simeq8.8\times10^{12}$ M$_\odot$) and a cluster ($M_{500}\simeq2.9\times10^{14}$ M$_\odot$)

@@ -37,8 +37,8 @@ for data and scripts from Paper I.
 <details>
   <summary>Summary of main science</summary>
 
-- Entropy plateaus emerge at characteristic halo-mass scales. Simulations of a galaxy group ($M_
-  {500}\simeq8.8\times10^{12}$ M$_\odot$) and a cluster ($M_{500}\simeq2.9\times10^{14}$ M$_\odot$)
+- Entropy plateaus emerge at characteristic halo-mass scales. Simulations of a galaxy group
+  $M_{500}\simeq8.8\times10^{12}$ M$_\odot$) and a cluster ($M_{500}\simeq2.9\times10^{14}$ M$_\odot$)
   show that once a halo reaches $M\sim10^{12}$ M$_\odot$, its entropy profile flattens at the 
   virial radius. As the halo grows to $\sim10^{13}$ M$_\odot$, the plateau extends inward, and by 
   $\sim10^{14}$ M$_\odot$ a fully isentropic core is established.
@@ -62,6 +62,22 @@ XMM–*Newton* studies of local groups report entropy excesses and flat cores co
 The tendency to over-eject low-entropy gas suggests that current feedback prescriptions may be too aggressive at group scales. Adaptive efficiency schemes or hybrid thermal–kinetic models may be required to recover the full spectrum of entropy shapes without compromising other cluster properties.
 </details>
 
+
+#### Links to the paper and related contents
+- ArXiv: [`https://arxiv.org/abs/2505.05675`](https://arxiv.org/abs/2505.05675)
+- NASA ADS: `coming soon...`
+- Google Scholar: `coming soon...`
+
+#### Citation
+If you use this repository or its data in your work, please cite the relevant papers as 
+described in the [CITATION.bib](./CITATION.bib) file with the `bibtex` handles.
+
+> [!TIP]
+>  You can generate `bibtex` handles or a text citation in your preferred style automatically 
+> from:
+> - NASA ADS's citation subpage (`coming soon...`)
+> - Google Scholar (`coming soon...`)
+
 ## Repository structure  
 ```text
 ├── data/               # Simulation data products
@@ -80,13 +96,7 @@ cd entropy-core-evolution
 
 [//]: # (3. Use Python code snippets from the [examples]&#40;&#41; or [documentation]&#40;&#41; to load and plot the data.)
 
-[//]: # (## Citation)
 
-[//]: # (If you use this repository or its data in your work, please cite the relevant papers as )
-
-[//]: # (described in the [citation guide]&#40;...&#41;, or refer to the [CITATION.bib]&#40;./CITATION.bib&#41; file for )
-
-[//]: # (the `bibtex` handles.)
 
 
 ## License

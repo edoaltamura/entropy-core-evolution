@@ -20,13 +20,11 @@ halo mass in simulated groups and clusters of galaxies*
 
 ## Table of Contents  
 - [Overview](#overview)
-- [Science summary](#science)
-- [Repository structure](#structure)
+- [Repository structure](#repository-structure)
 - [Installation](#installation)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-<a name="overview"/>
 ## Overview  
 This repository contains the data and analysis scripts useful to reproduce the 
 results of Altamura et al. (2025, Paper II). Paper II investigates the emergence of entropy 
@@ -37,7 +35,6 @@ entropy profile analysis presented in [Altamura et al. (2023, Paper I)](https://
 for data and scripts from Paper I.
 
 <details>
-  <a name="science"/>
   <summary>Summary of main science</summary>
 
 - Entropy plateaus emerge at characteristic halo-mass scales. Simulations of a galaxy group ($M_
@@ -65,7 +62,6 @@ XMM–*Newton* studies of local groups report entropy excesses and flat cores co
 The tendency to over-eject low-entropy gas suggests that current feedback prescriptions may be too aggressive at group scales. Adaptive efficiency schemes or hybrid thermal–kinetic models may be required to recover the full spectrum of entropy shapes without compromising other cluster properties.
 </details>
 
-<a name="structure"/>
 ## Repository structure  
 ```text
 ├── data/               # Simulation data products
@@ -74,7 +70,6 @@ The tendency to over-eject low-entropy gas suggests that current feedback prescr
 └── img/                # Figures from the paper (pdf) and other visualisations
 ```
 
-<a name="installation"/>
 ## Installation  
 1. Clone this repository
 ```bash
@@ -94,11 +89,9 @@ cd entropy-core-evolution
 [//]: # (the `bibtex` handles.)
 
 
-<a name="licence"/>
 ## License
 This project is licensed under the Apache License Version 2.0.
 
-<a name="acknowledgements"/>
 ## Acknowledgements
 The authors thank Adrian Jenkins and Alastair Basden for high-performance computing support.
 This work used the DiRAC@Durham facility managed by the Institute for Computational Cosmology on 

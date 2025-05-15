@@ -18,6 +18,8 @@ halo mass in simulated groups and clusters of galaxies*
 
 *Authors*: **Edoardo Altamura**, Scott T. Kay, Joop Schaye, Ian G. McCarthy, Matthieu Schaller
 
+Documentation: [https://edoaltamura.github.io/entropy-core-evolution/](https://edoaltamura.github.io/entropy-core-evolution/)
+
 ## Table of Contents  
 - [Overview](#overview)
 - [Repository structure](#repository-structure)

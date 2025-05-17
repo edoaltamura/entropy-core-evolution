@@ -68,7 +68,7 @@ The tendency to over-eject low-entropy gas suggests that current feedback prescr
 #### Links to the paper and related contents
 - ArXiv: [`https://arxiv.org/abs/2505.05675`](https://arxiv.org/abs/2505.05675)
 - NASA ADS: [`https://ui.adsabs.harvard.edu/abs/2025arXiv250505675A/abstract`](https://ui.adsabs.harvard.edu/abs/2025arXiv250505675A/abstract)
-- Google Scholar: `coming soon...`
+- Google Scholar [`https://scholar.google.com/citations...isC`](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThGKWoUAAAAJ&citation_for_view=ThGKWoUAAAAJ:5nxA0vEk-isC)
 
 #### Citation
 If you use this repository or its data in your work, please cite the relevant papers as 
@@ -76,9 +76,7 @@ described in the [CITATION.bib](./CITATION.bib) file with the `bibtex` handles.
 
 > [!TIP]
 >  You can generate `bibtex` handles or a text citation in your preferred style automatically 
-> from:
-> - NASA ADS's citation subpage ([`https://ui.adsabs.harvard.edu/abs/2025arXiv250505675A/exportcitation`](https://ui.adsabs.harvard.edu/abs/2025arXiv250505675A/exportcitation)
-> - Google Scholar (`coming soon...`)
+> from NASA ADS's citation subpage ([`https://ui.adsabs.harvard.edu/abs/2025arXiv250505675A/exportcitation`](https://ui.adsabs.harvard.edu/abs/2025arXiv250505675A/exportcitation))
 
 ## Repository structure  
 ```text

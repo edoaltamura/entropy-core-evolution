@@ -1,11 +1,11 @@
 .. _citing:
 
 Citation guideline
-=====
+==================
 
 
 The 'entropy plateaus' paper
---------
+----------------------------
 
 You can find the citation handle for the *entropy plateaus* paper below in ``bibtex`` style.
 
@@ -35,7 +35,7 @@ You can find the citation handle for the *entropy plateaus* paper below in ``bib
 
 
 The 'entropy-core problem' paper
---------
+--------------------------------
 
 If you are also using results about the entropy-core problem or results at :math:`z=0` (equiv.
 local universe), please also cite
@@ -69,7 +69,7 @@ local universe), please also cite
 
 
 The PhD thesis
---------
+--------------
 
 If using the *topological closure* technique to prepare contamination-free initial initial
 conditions for zoom-in cosmological simulations, please cite the following

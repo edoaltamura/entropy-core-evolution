@@ -1,7 +1,10 @@
-.. include:: ../README.rst
+
 
 Data and scripts from the entropy-core evolution project
 ========================================================
+
+.. image:: img/banner_cluster.png
+
 
 This documentation complements the GitHub repository with data and scripts by providing minimal
 examples to help you **include data from Altamura et al. (2025) in your figures in no time.**

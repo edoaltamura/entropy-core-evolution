@@ -11,22 +11,25 @@ You can find the citation handle for the *entropy plateaus* paper below in ``bib
 
 .. code-block:: bibtex
 
-    @ARTICLE{2025arXiv250505675A,
+    @ARTICLE{2025MNRAS.541.3367A,
            author = {{Altamura}, Edoardo and {Kay}, Scott T. and {Schaye}, Joop and {McCarthy}, Ian G. and {Schaller}, Matthieu},
             title = "{Entropy plateaus can emerge from gas replacement at a characteristic halo mass in simulated groups and clusters of galaxies}",
-          journal = {arXiv e-prints},
-         keywords = {Cosmology and Nongalactic Astrophysics, Astrophysics of Galaxies, Computational Physics},
+          journal = {\mnras},
+         keywords = {galaxies: clusters: general, galaxies: clusters: intracluster medium, galaxies: evolution, galaxies: formation, galaxies: fundamental parameters, galaxies: groups: general, Cosmology and Nongalactic Astrophysics, Astrophysics of Galaxies, Computational Physics},
              year = 2025,
-            month = may,
-              eid = {arXiv:2505.05675},
-            pages = {arXiv:2505.05675},
-              doi = {10.48550/arXiv.2505.05675},
+            month = aug,
+           volume = {541},
+           number = {4},
+            pages = {3367-3387},
+              doi = {10.1093/mnras/staf1106},
     archivePrefix = {arXiv},
            eprint = {2505.05675},
      primaryClass = {astro-ph.CO},
-           adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv250505675A},
+           adsurl = {https://ui.adsabs.harvard.edu/abs/2025MNRAS.541.3367A},
           adsnote = {Provided by the SAO/NASA Astrophysics Data System}
     }
+
+
 
 .. note::
 
